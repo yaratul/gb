@@ -76,10 +76,10 @@ class Development:
     GENIUS_API_TOKEN = "HgHpAqnT4CfR_sVXCOqlX01fcOY6064tut7ox2FV6fAazqc3ypDLCOP3txQMA706"
     RMBG_API = "r8_a4BK7dk9vdQNtXwLfGsHd7Q98VBh0231kF5ZL"
     PREFIX_HANDLER = ["!", "/", "$"]
-    SUPPORT_GROUP = "SUPPORT_GROUP"
-    SUPPORT_CHANNEL = "SUPPORT_CHANNEL"
+    SUPPORT_GROUP = "nxxnto"
+    SUPPORT_CHANNEL = "notxton01"
     VERSION = "VERSION"
-    TIME_ZONE = 'Asia/Kolkata'
+    TIME_ZONE = 'Asia/Dhaka'
     BDB_URI = ""
     WORKERS = 8
     # CHROME_BIN = "/app/.apt/usr/bin/google-chrome"
