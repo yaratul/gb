@@ -62,19 +62,19 @@ class Development:
 
     # Fill in these vars if you want to use Traditional method of deploying
     LOGGER = True
-    BOT_TOKEN = "YOUR BOT_TOKEN"
-    API_ID = 12345  # Your APP_ID from Telegram
-    API_HASH = "YOUR API HASH"  # Your APP_HASH from Telegram
-    OWNER_ID = 1344569458  # Your telegram user id defult to mine
-    MESSAGE_DUMP = 0  # Your Private Group ID for logs if not passed your owner id will be msg dump
+    BOT_TOKEN = "7719275492:AAGMe8MwQzGXioQRZzJVJH5gPWR_TF-jxz4"
+    API_ID = 27063102  # Your APP_ID from Telegram
+    API_HASH = "b5d00c63e4ca27de937e226099c66f47"  # Your APP_HASH from Telegram
+    OWNER_ID = 5537383735  # Your telegram user id defult to mine
+    MESSAGE_DUMP = -4756132444  # Your Private Group ID for logs if not passed your owner id will be msg dump
     DEV_USERS = []
     SUDO_USERS = []
     WHITELIST_USERS = []
-    DB_URI = ""  # Your mongo DB URI
-    DB_NAME = ""  # Your DB name
+    DB_URI = "mongodb+srv://ratul:Ratul,12@cluster0.w06mbjl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"  # Your mongo DB URI
+    DB_NAME = "bot"  # Your DB name
     NO_LOAD = []
-    GENIUS_API_TOKEN = ""
-    RMBG_API = ""
+    GENIUS_API_TOKEN = "HgHpAqnT4CfR_sVXCOqlX01fcOY6064tut7ox2FV6fAazqc3ypDLCOP3txQMA706"
+    RMBG_API = "r8_a4BK7dk9vdQNtXwLfGsHd7Q98VBh0231kF5ZL"
     PREFIX_HANDLER = ["!", "/", "$"]
     SUPPORT_GROUP = "SUPPORT_GROUP"
     SUPPORT_CHANNEL = "SUPPORT_CHANNEL"
